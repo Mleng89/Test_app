@@ -87,7 +87,7 @@ catch (Exception e)
 */
 
 using First_App;
-
+// OBJECT TESTING/METHOD TESTS
 //Book book1 = new Book("Hitchhiker's Guide", "Douglas Adams", 600);
 ////book1.title = "Hitchiker's Guide";
 ////book1.author = "Douglas Adams";
@@ -101,5 +101,8 @@ Person person2 = new Person("Julia", "Doe", 35);
 
 Console.WriteLine(person1.overAge()); //false
 Console.WriteLine(person2.overAge()); //true
+person1.Age = -1;
+Console.WriteLine(person1.Age);
+Console.WriteLine(person2.Age);
 
 Console.ReadLine();

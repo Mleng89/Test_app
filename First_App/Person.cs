@@ -5,9 +5,9 @@ namespace First_App
     {
         public string firstName;
         public string lastName;
-        public int age;
+        private int age;
 
-        public Person( string aFirstName, string aLastName, int aAge)
+        public Person(string aFirstName, string aLastName, int aAge)
         {
             firstName = aFirstName;
             lastName = aLastName;
@@ -16,12 +16,22 @@ namespace First_App
         //methods accessible for class/object
         public bool overAge()
         {
-            if(age > 18)
+            if (age > 18)
             {
                 return true;
             };
             return false;
         }
+
+        public int Age
+        {
+            get { return age; }
+            set { if (value >= 0 && value <= 100) {
+                    age = value;
+                
+                }
+            }
+        }
+
     }
 }
-
