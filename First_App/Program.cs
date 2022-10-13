@@ -15,7 +15,8 @@ namespace First_App
 }
 */
 
-/*
+/*NOTES:
+ * 
  * Data types
  * 
  * string name = "Matthew";
@@ -44,10 +45,8 @@ namespace First_App
  * Abs() --absolute value
  * Pow(3,2) --power of = 9
  * .Sqrt() --square root
- */
-
-
-/* 
+ * 
+ * 
  * CREATING METHODS/FUNTION:
  * 
 static void SayHi(string name)
@@ -57,9 +56,7 @@ static void SayHi(string name)
 };
 
 SayHi("Matthew");
-*/
 
-/*
  * RETURN VALUES 
 static int cube(int num)
 {
@@ -68,11 +65,11 @@ static int cube(int num)
 
 Console.WriteLine(cube(2));
 
- */
-//for(int i = 0; i < 10; i++)
-//{
-//    Console.WriteLine(i);
-//}
+
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine(i);
+}
 
 
 try
@@ -83,8 +80,20 @@ try
     int num2 = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine(num1 / num2);
 }
-catch(Exception e)
+catch (Exception e)
 {
     Console.WriteLine(e.Message);
 }
+*/
+
+using First_App;
+
+Book book1 = new Book();
+book1.title = "Hitchiker's Guide";
+book1.author = "Douglas Adams";
+book1.pages = 500;
+
+Console.WriteLine(book1.title);
+Console.WriteLine(book1.pages);
+
 Console.ReadLine();
