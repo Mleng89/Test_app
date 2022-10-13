@@ -6,12 +6,14 @@ namespace First_App
         public string firstName;
         public string lastName;
         private int age;
+        public static int peopleCount;
 
         public Person(string aFirstName, string aLastName, int aAge)
         {
             firstName = aFirstName;
             lastName = aLastName;
             age = aAge;
+            peopleCount++;
         }
         //methods accessible for class/object
         public bool overAge()

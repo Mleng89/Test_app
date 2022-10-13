@@ -95,9 +95,11 @@ using First_App;
 
 //Console.WriteLine(book1.title);
 //Console.WriteLine(book1.pages);
-
+Console.WriteLine(Person.peopleCount);
 Person person1 = new Person("John", "Doe", 10);
+Console.WriteLine(Person.peopleCount);
 Person person2 = new Person("Julia", "Doe", 35);
+Console.WriteLine(Person.peopleCount);
 
 Console.WriteLine(person1.overAge()); //false
 Console.WriteLine(person2.overAge()); //true
