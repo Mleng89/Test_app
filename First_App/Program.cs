@@ -88,10 +88,10 @@ catch (Exception e)
 
 using First_App;
 
-Book book1 = new Book();
-book1.title = "Hitchiker's Guide";
-book1.author = "Douglas Adams";
-book1.pages = 500;
+Book book1 = new Book("Hitchhiker's Guide", "Douglas Adams", 600);
+//book1.title = "Hitchiker's Guide";
+//book1.author = "Douglas Adams";
+//book1.pages = 500;
 
 Console.WriteLine(book1.title);
 Console.WriteLine(book1.pages);
