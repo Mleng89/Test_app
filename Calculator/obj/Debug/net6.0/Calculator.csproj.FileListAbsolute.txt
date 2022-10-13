@@ -1,0 +1,15 @@
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/bin/Debug/net6.0/Calculator
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/Users/mleng/Desktop/Dev/C#/First_App/Calculator/obj/Debug/net6.0/ref/Calculator.dll

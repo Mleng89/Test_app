@@ -1,0 +1,15 @@
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/bin/Debug/net6.0/First_App
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/bin/Debug/net6.0/First_App.deps.json
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/bin/Debug/net6.0/First_App.runtimeconfig.json
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/bin/Debug/net6.0/First_App.dll
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/bin/Debug/net6.0/First_App.pdb
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/obj/Debug/net6.0/First_App.csproj.AssemblyReference.cache
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/obj/Debug/net6.0/First_App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/obj/Debug/net6.0/First_App.AssemblyInfoInputs.cache
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/obj/Debug/net6.0/First_App.AssemblyInfo.cs
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/obj/Debug/net6.0/First_App.csproj.CoreCompileInputs.cache
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/obj/Debug/net6.0/First_App.dll
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/obj/Debug/net6.0/refint/First_App.dll
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/obj/Debug/net6.0/First_App.pdb
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/obj/Debug/net6.0/First_App.genruntimeconfig.cache
+/Users/mleng/Desktop/Dev/C#/First_App/First_App/obj/Debug/net6.0/ref/First_App.dll
